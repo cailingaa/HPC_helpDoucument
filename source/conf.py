@@ -70,14 +70,3 @@ html_theme = 'furo'
 # so a file named "default.css" will overwrite the builtin "default.css".
 html_static_path = ['_static']
 
-import sys
-from pathlib import Path
-
-# 载入自定义模块
-DOC_ROOT = Path(__file__).parent.absolute()
-sys.path.extend([
-    str(DOC_ROOT.parent/'_sphinx'),
-    str(DOC_ROOT.parent/'src'),
-])
-
-from share_conf import *
