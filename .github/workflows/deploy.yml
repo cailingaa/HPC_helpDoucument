@@ -46,7 +46,6 @@ jobs:
 
       - name: 🔧 Build HTML
         run: |
-          cd HPC_helpDoucumentation
           make html
           sphinx-build -D language=en -b html ./ _build/html/en
 
