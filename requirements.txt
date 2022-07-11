@@ -1,5 +1,3 @@
 sphinx
 furo
 myst-parser
-restructuredtext
-markdown
