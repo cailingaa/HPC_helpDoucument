@@ -1,4 +1,4 @@
-name: bushuwendang
+name: Deploy to Github Pages
 
 on:
   push:
@@ -50,13 +50,13 @@ jobs:
           make html
           sphinx-build -D language=en -b html ./ _build/html/en
 
-      -name: Clean up files
-      run: rm -r HPC_helpDoucumentation/_bulid/doctrees/          
+      # -name: Clean up files
+      # run: rm -r HPC_helpDoucumentation/_bulid/doctrees/          
 
       - name: 🚀 Deploy to GitHub pages
         uses: peaceiris/actions-gh-pages@v3.6.1
         with:
           github_token: ${{ secrets.GITHUB_TOKEN }}
           publish_dir: output/html/write
-          user_name: 'github-actions[bot]'
-          user_email: 'github-actions[bot]@users.noreply.github.com'
+          # user_name: 'github-actions[bot]'
+          # user_email: 'github-actions[bot]@users.noreply.github.com'
