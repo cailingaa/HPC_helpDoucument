@@ -21,7 +21,7 @@
 
 
 .. toctree::
-   :maxdepth: 2
+   :maxdepth: 1
    :numbered:
    :caption: 导航:
 
@@ -32,7 +32,6 @@
    userManagement/index.rst
    charging/index.rst
    task/index.rst
-   storage/index.rst
    visualization/index.rst
    journal/index.rst
    system/index.rst
