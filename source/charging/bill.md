@@ -1,9 +1,8 @@
 账单管理
 ======================
-&emsp;
 
 
-**系统管理员可以查看全部账户的账单，团队管理员可以查看本账户的账单**
+> **系统管理员可以查看全部账户的账单，团队管理员可以查看本账户的账单**
 
 ## 新增账单 ##
 * 点击【**<font color=blue>计费</font>**】菜单，再次点击[**<font color=blue>账单管理</font>**]，进入'账单管理'列表页面，点击<**<font color=blue>新增</font>**>按钮，填入账单信息，点击<**<font color=blue>保存</font>**>，可成功添加账单。
@@ -11,7 +10,7 @@
 
 ![新增账单](../_static/img/charging/userBill/addBill.png)
 
-**包括三种方式的账单：每日<font color=blue>自动生成</font>、<font color=blue>手工出账</font>、<font color=blue>手工导入</font>；自动生成、 手工出账有详细使用信息，手工导入仅提供实收费用。**
+> **包括三种方式的账单：每日<font color=blue>自动生成</font>、<font color=blue>手工出账</font>、<font color=blue>手工导入</font>；自动生成、 手工出账有详细使用信息，手工导入仅提供实收费用。**
 
 + **手工出账:** 基于历史使用详单，根据账户的设置（计费模板、产品折扣）， 手工生成账单。
 ![新增手工出账账单](../_static/img/charging/userBill/manualBill.png)

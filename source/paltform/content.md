@@ -1,6 +1,7 @@
 平台体系结构
 ======================
 &emsp;
+
 **HPC管理平台总体系统架构设计如下图所示：**
 
 ![平台架构体系](../_static/img/paltform/paltformStructure.png)
