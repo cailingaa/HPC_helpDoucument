@@ -21,7 +21,7 @@
 
 * 点击【**<font color=blue>用户</font>**】菜单，再次点击[**<font color=blue>角色管理</font>**]，进入'角色管理'列表页面，点击需要查看的角色管理项中的[**<font color=blue>操作</font>**]列的<**<font color=blue>查看</font>**>按钮，可成功查看角色管理项详情信息。
 
-![查看角色管理详情](../_static/img/usermanagement/RoleDetail.png)
+![查看角色管理详情](../_static/img/usermanagement/roleDetail.png)
 
 
 &emsp;
