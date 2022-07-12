@@ -30,7 +30,7 @@
 
 ## 编辑角色 ##
 
-* 点击【**<font color=blue>用户</font>**】菜单，再次点击[**<font color=blue>角色管理</font>**]，进入'角色管理'列表页面，点击需要编辑的角色管理项中的[**<font color=blue>操作</font>**]列的<**<font color=blue>编辑</font>**>按钮，填入新的角色管理信息，点击<**<font color=blue>修改</font>**>，可成功编辑角色管理。
+* 点击【**<font color=blue>用户</font>**】菜单，再次点击[**<font color=blue>角色管理</font>**]，进入'角色管理'列表页面，点击需要编辑的角色管理项中的[**<font color=blue>操作</font>**]列的<**<font color=blue>编辑</font>**>按钮，填入新的角色管理信息，点击<**<font color=blue>修改</font>**>，可成功编辑角色。
 
 
 ![修改角色管理](../_static/img/usermanagement/editRole.png)

@@ -23,7 +23,7 @@
 
 &emsp;
 * **计费管理**
-    + *统对用户实现**配额控制**和**计费功能**，HPC平台按照用户使用<font color=blue>CPU</font>、<font color=blue>GPU</font>、<font color=blue>内存</font>的具体数量进行计费，提供对用户使用机时资源进行计费*。
+    + *统对用户实现**配额控制**和**计费功能**，HPC平台按照用户使用<font color=blue>CPU</font>、<font color=blue>GPU</font>、<font color=blue>内存</font>的具体数量进行计费，提供对用户使用时资源进行计费*。
 
 &emsp;
 * **作业管理**
