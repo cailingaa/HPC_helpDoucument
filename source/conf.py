@@ -18,7 +18,7 @@ import sys
 
 ROOT = Path(__file__).parent.resolve()
 
-sys.path.extend([str(ROOT/'_ext')])
+sys.path.extend([str(ROOT/'_source')])
 
 
 # -- Project information -----------------------------------------------------
