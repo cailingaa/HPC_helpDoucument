@@ -42,7 +42,7 @@ jobs:
         shell: bash
         run: |
           pip install --upgrade pip
-          pip install -r requirements.txt
+          pip install -r source/requirements.txt
 
       - name: 🔧 Build HTML
         run: |
@@ -51,7 +51,7 @@ jobs:
           sphinx-build -D language=en -b html ./ _build/html/en
 
       - name: Clean up files
-        run: rm -r _bulid/doctrees/  
+        run: rm -r source/_bulid/doctrees/  
         
 
       - name: 🚀 Deploy to GitHub pages
