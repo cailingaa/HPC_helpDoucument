@@ -12,7 +12,7 @@
 
 ## 新增字典 ##
 
-* 点击【**<font color=blue>系统管理</font>**】菜单，再次点击[**<font color=blue>系统字典</font>**]，进入'系统字典'列表页面，点击<**<font color=blue>新增</font>**>按钮，填入字典信息，点击<**<font color=blue>保存</font>**>，可成功添加字典。
+* 点击【**<font color=#0071C1>系统管理</font>**】菜单，再次点击[**<font color=#0071C1>系统字典</font>**]，进入'系统字典'列表页面，点击<**<font color=#0071C1>新增</font>**>按钮，填入字典信息，点击<**<font color=#0071C1>保存</font>**>，可成功添加字典。
 
 
 ![新增字典](../_static/img/system/addDictionary.jpg)
@@ -24,7 +24,7 @@
 
 ## 编辑字典 ##
 
-* 点击【**<font color=blue>系统管理</font>**】菜单，再次点击[**<font color=blue>系统字典</font>**]，进入'系统字典'列表页面，点击需要编辑的字典项中的[**<font color=blue>操作</font>**]列的<**<font color=blue>编辑</font>**>按钮，填入新的字典信息，点击<**<font color=blue>修改</font>**>，可成功编辑字典。
+* 点击【**<font color=#0071C1>系统管理</font>**】菜单，再次点击[**<font color=#0071C1>系统字典</font>**]，进入'系统字典'列表页面，点击需要编辑的字典项中的[**<font color=#0071C1>操作</font>**]列的<**<font color=#0071C1>编辑</font>**>按钮，填入新的字典信息，点击<**<font color=#0071C1>修改</font>**>，可成功编辑字典。
 
 
 ![修改字典](../_static/img/system/editDictionary.png)
@@ -35,7 +35,7 @@
 ----------------------------------------------------------------------------------------------------------------------------------
 ## 删除字典 ##
 
-* 点击【**<font color=blue>系统管理</font>**】菜单，再次点击[**<font color=blue>系统字典</font>**]，进入'系统字典'列表页面，点击需要删除的字典项中的[**<font color=blue>操作</font>**]列的<**<font color=blue>删除</font>**>按钮进行删除操作；也可以勾选需要删除的字典项，再点击<**<font color=blue>删除</font>**>按钮，进行批量删除的操作。
+* 点击【**<font color=#0071C1>系统管理</font>**】菜单，再次点击[**<font color=#0071C1>系统字典</font>**]，进入'系统字典'列表页面，点击需要删除的字典项中的[**<font color=#0071C1>操作</font>**]列的<**<font color=#0071C1>删除</font>**>按钮进行删除操作；也可以勾选需要删除的字典项，再点击<**<font color=#0071C1>删除</font>**>按钮，进行批量删除的操作。
 
 
 ![删除字典](../_static/img/system/deleteDictionary.png)
@@ -47,7 +47,7 @@
 
 ## 新增字典子项 ##
 
-* 点击【**<font color=blue>系统管理</font>**】菜单，再次点击[**<font color=blue>系统字典</font>**]，进入'系统字典'列表页面，点击操作中的<**<font color=blue>字典配置</font>**>项，点击弹窗中的<**<font color=blue>新增</font>**>按钮，填入字典子项信息，点击<**<font color=blue>保存</font>**>，可成功添加字典子项。
+* 点击【**<font color=#0071C1>系统管理</font>**】菜单，再次点击[**<font color=#0071C1>系统字典</font>**]，进入'系统字典'列表页面，点击操作中的<**<font color=#0071C1>字典配置</font>**>项，点击弹窗中的<**<font color=#0071C1>新增</font>**>按钮，填入字典子项信息，点击<**<font color=#0071C1>保存</font>**>，可成功添加字典子项。
 
 ![新增字典子项](../_static/img/system/addDictionaryItem.jpg)
 
@@ -57,7 +57,7 @@
 
 ## 编辑字典子项 ##
 
-* 点击【**<font color=blue>系统管理</font>**】菜单，再次点击[**<font color=blue>系统字典</font>**]，进入'系统字典'列表页面，点击需要编辑的字典子项所在的字典项中的[**<font color=blue>操作</font>**]列的<**<font color=blue>字典配置</font>**>按钮，进入字典配置弹窗页，选择需要编辑的字典子项中的<**<font color=blue>编辑</font>**>按钮，填入新的字典子项信息，点击<**<font color=blue>修改</font>**>，可成功编辑字典子项。
+* 点击【**<font color=#0071C1>系统管理</font>**】菜单，再次点击[**<font color=#0071C1>系统字典</font>**]，进入'系统字典'列表页面，点击需要编辑的字典子项所在的字典项中的[**<font color=#0071C1>操作</font>**]列的<**<font color=#0071C1>字典配置</font>**>按钮，进入字典配置弹窗页，选择需要编辑的字典子项中的<**<font color=#0071C1>编辑</font>**>按钮，填入新的字典子项信息，点击<**<font color=#0071C1>修改</font>**>，可成功编辑字典子项。
 
 
 ![修改字典子项](../_static/img/system/editDictionaryItem.png)
@@ -69,7 +69,7 @@
 
 ## 删除字典子项 ##
 
-* 点击【**<font color=blue>系统管理</font>**】菜单，再次点击[**<font color=blue>系统字典</font>**]，进入'系统字典'列表页面，点击需要删除的字典子项所在的字典项中的[**<font color=blue>操作</font>**]列的<**<font color=blue>字典配置</font>**>按钮，进入字典配置弹窗页，点击<**<font color=blue>删除</font>**>进行删除操作；也可以勾选需要删除的字典子项，再点击<**<font color=blue>删除</font>**>按钮，进行批量删除的操作。
+* 点击【**<font color=#0071C1>系统管理</font>**】菜单，再次点击[**<font color=#0071C1>系统字典</font>**]，进入'系统字典'列表页面，点击需要删除的字典子项所在的字典项中的[**<font color=#0071C1>操作</font>**]列的<**<font color=#0071C1>字典配置</font>**>按钮，进入字典配置弹窗页，点击<**<font color=#0071C1>删除</font>**>进行删除操作；也可以勾选需要删除的字典子项，再点击<**<font color=#0071C1>删除</font>**>按钮，进行批量删除的操作。
 
 
 ![删除字典子项](../_static/img/system/deleteDictionaryItem.jpg)

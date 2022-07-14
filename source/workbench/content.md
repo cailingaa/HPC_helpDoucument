@@ -5,7 +5,7 @@
 
 
 ## 新增通知公告 ##
-* 点击【**<font color=blue>工作台</font>**】菜单，再次点击[**<font color=blue>通知公告</font>**]，进入'通知公告'列表页面，点击<**<font color=blue>新增</font>**>按钮，填入通知公告信息，点击<**<font color=blue>保存</font>**>，可成功添加通知公告。
+* 点击【**<font color=#0071C1>工作台</font>**】菜单，再次点击[**<font color=#0071C1>通知公告</font>**]，进入'通知公告'列表页面，点击<**<font color=#0071C1>新增</font>**>按钮，填入通知公告信息，点击<**<font color=#0071C1>保存</font>**>，可成功添加通知公告。
 
 
 ![新增通知公告](../_static/img/workbench/addNotice.png)
@@ -17,7 +17,7 @@
 
 ## 查看通知公告详情 ##
 
-* 点击【**<font color=blue>工作台</font>**】菜单，再次点击[**<font color=blue>通知公告</font>**]，进入'通知公告'列表页面，点击需要查看的通知公告项中的[**<font color=blue>操作</font>**]列的<**<font color=blue>查看</font>**>按钮，可成功查看通知公告项详情信息。
+* 点击【**<font color=#0071C1>工作台</font>**】菜单，再次点击[**<font color=#0071C1>通知公告</font>**]，进入'通知公告'列表页面，点击需要查看的通知公告项中的[**<font color=#0071C1>操作</font>**]列的<**<font color=#0071C1>查看</font>**>按钮，可成功查看通知公告项详情信息。
 
 ![查看通知公告详情](../_static/img/workbench/noticeDetail.png)
 
@@ -28,7 +28,7 @@
 
 ## 编辑通知公告 ##
 
-* 点击【**<font color=blue>工作台</font>**】菜单，再次点击[**<font color=blue>通知公告</font>**]，进入'通知公告'列表页面，点击需要编辑的通知公告项中的[**<font color=blue>操作</font>**]列的<**<font color=blue>编辑</font>**>按钮，填入新的通知公告信息，点击<**<font color=blue>修改</font>**>，可成功编辑通知公告。
+* 点击【**<font color=#0071C1>工作台</font>**】菜单，再次点击[**<font color=#0071C1>通知公告</font>**]，进入'通知公告'列表页面，点击需要编辑的通知公告项中的[**<font color=#0071C1>操作</font>**]列的<**<font color=#0071C1>编辑</font>**>按钮，填入新的通知公告信息，点击<**<font color=#0071C1>修改</font>**>，可成功编辑通知公告。
 
 
 ![修改通知公告](../_static/img/workbench/editNotice.png)
@@ -40,7 +40,7 @@
 
 ## 删除通知公告 ##
 
-* 点击【**<font color=blue>工作台</font>**】菜单，再次点击[**<font color=blue>通知公告</font>**]，进入'通知公告'列表页面，点击需要删除的通知公告项中的[**<font color=blue>操作</font>**]列的<**<font color=blue>删除</font>**>按钮进行删除操作；也可以勾选需要删除的通知公告项，再点击<**<font color=blue>删除</font>**>按钮，进行批量删除的操作。
+* 点击【**<font color=#0071C1>工作台</font>**】菜单，再次点击[**<font color=#0071C1>通知公告</font>**]，进入'通知公告'列表页面，点击需要删除的通知公告项中的[**<font color=#0071C1>操作</font>**]列的<**<font color=#0071C1>删除</font>**>按钮进行删除操作；也可以勾选需要删除的通知公告项，再点击<**<font color=#0071C1>删除</font>**>按钮，进行批量删除的操作。
 
 
 ![删除通知公告](../_static/img/workbench/deleteNotice.png)
@@ -72,7 +72,7 @@
 > **管理员可以设置告警阈值。**
 
 
-+ 点击【**<font color=blue>工作台</font>**】菜单，再次点击[**<font color=blue>预警列表</font>**]，进入'预警列表'列表页面，点击<**<font color=blue>设置</font>**>按钮，填入预警设置信息，点击<**<font color=blue>提交</font>**>按钮，可成功设置预警信息。
++ 点击【**<font color=#0071C1>工作台</font>**】菜单，再次点击[**<font color=#0071C1>预警列表</font>**]，进入'预警列表'列表页面，点击<**<font color=#0071C1>设置</font>**>按钮，填入预警设置信息，点击<**<font color=#0071C1>提交</font>**>按钮，可成功设置预警信息。
 
 ![设置告警阈值](../_static/img/workbench/setWarm.png)
 

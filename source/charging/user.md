@@ -11,7 +11,7 @@
 
 **系统管理员可以新增账户，设置账户名称、所在集群、默认存储、可用 GPU 卡数等信息。**
 
-* 点击【**<font color=blue>计费</font>**】菜单，再次点击[**<font color=blue>账户管理</font>**]，进入'账户管理'列表页面，点击<**<font color=blue>新增</font>**>按钮，填入账户信息，点击<**<font color=blue>保存</font>**>，可成功添加账户。
+* 点击【**<font color=#0071C1>计费</font>**】菜单，再次点击[**<font color=#0071C1>账户管理</font>**]，进入'账户管理'列表页面，点击<**<font color=#0071C1>新增</font>**>按钮，填入账户信息，点击<**<font color=#0071C1>保存</font>**>，可成功添加账户。
 
 
 ![新增账户](../_static/img/charging/user/addAccount.png)
@@ -22,7 +22,7 @@
 ----------------------------------------------------------------------------------------------------------------------------------
 ## 查看账户详情 ##
 
-* 点击【**<font color=blue>计费</font>**】菜单，再次点击[**<font color=blue>账户管理</font>**]，进入'账户管理'列表页面，点击需要查看的账户管理项中的[**<font color=blue>操作</font>**]列的<**<font color=blue>查看</font>**>按钮，可成功查看账户项详情信息。
+* 点击【**<font color=#0071C1>计费</font>**】菜单，再次点击[**<font color=#0071C1>账户管理</font>**]，进入'账户管理'列表页面，点击需要查看的账户管理项中的[**<font color=#0071C1>操作</font>**]列的<**<font color=#0071C1>查看</font>**>按钮，可成功查看账户项详情信息。
 
 ![查看账户详情](../_static/img/charging/user/accountDetail.png)
 
@@ -33,7 +33,7 @@
 
 ## 编辑账户 ##
 
-* 系统管理员可点击【**<font color=blue>计费</font>**】菜单，再次点击[**<font color=blue>账户管理</font>**]，进入'账户管理'列表页面，点击需要编辑的账户管理项中的[**<font color=blue>操作</font>**]列的<**<font color=blue>编辑</font>**>按钮，填入新的账户信息，点击<**<font color=blue>修改</font>**>，可成功编辑计费模板。
+* 系统管理员可点击【**<font color=#0071C1>计费</font>**】菜单，再次点击[**<font color=#0071C1>账户管理</font>**]，进入'账户管理'列表页面，点击需要编辑的账户管理项中的[**<font color=#0071C1>操作</font>**]列的<**<font color=#0071C1>编辑</font>**>按钮，填入新的账户信息，点击<**<font color=#0071C1>修改</font>**>，可成功编辑计费模板。
 
 
 ![编辑账户](../_static/img/charging/user/editAccount.png)
@@ -46,7 +46,7 @@
 ## 计费设置 ##
 
 
-* 点击【**<font color=blue>计费</font>**】菜单，再次点击[**<font color=blue>账户管理</font>**]，进入'账户管理'列表页面，点击需要设置计费的账户项中的[**<font color=blue>操作</font>**]列的<**<font color=blue>计费</font>**>按钮进行计费设置，可设置可用的账户及账户的计费折扣。
+* 点击【**<font color=#0071C1>计费</font>**】菜单，再次点击[**<font color=#0071C1>账户管理</font>**]，进入'账户管理'列表页面，点击需要设置计费的账户项中的[**<font color=#0071C1>操作</font>**]列的<**<font color=#0071C1>计费</font>**>按钮进行计费设置，可设置可用的账户及账户的计费折扣。
 
 
 ![计费设置](../_static/img/charging/user/setCharging.png)
@@ -56,7 +56,7 @@
 
 
 ### 新增计费 ###
-* 系统管理员可在'计费设置'列表页面，点击<**<font color=blue>新增</font>**>按钮，填入计费设置信息，点击<**<font color=blue>保存</font>**>，可成功添加计费设置。
+* 系统管理员可在'计费设置'列表页面，点击<**<font color=#0071C1>新增</font>**>按钮，填入计费设置信息，点击<**<font color=#0071C1>保存</font>**>，可成功添加计费设置。
 
 
 ![新增计费设置](../_static/img/charging/user/addChargingSetting.png)
@@ -66,7 +66,7 @@
 
 ### 查看计费设置详情 ###
 
-* 在'计费设置'列表页面，点击需要查看的计费设置管理项中的[**<font color=blue>操作</font>**]列的<**<font color=blue>查看</font>**>按钮，可成功查看计费设置项详情信息。
+* 在'计费设置'列表页面，点击需要查看的计费设置管理项中的[**<font color=#0071C1>操作</font>**]列的<**<font color=#0071C1>查看</font>**>按钮，可成功查看计费设置项详情信息。
 
 ![查看计费设置详情](../_static/img/charging/user/chargingSettingDetail.png)
 
@@ -77,7 +77,7 @@
 
 ### 编辑计费设置 ###
 
-* 系统管理员可在'计费设置'列表页面，点击需要编辑的计费设置管理项中的[**<font color=blue>操作</font>**]列的<**<font color=blue>编辑</font>**>按钮，填入新的计费设置信息，点击<**<font color=blue>修改</font>**>，可成功编辑计费设置。
+* 系统管理员可在'计费设置'列表页面，点击需要编辑的计费设置管理项中的[**<font color=#0071C1>操作</font>**]列的<**<font color=#0071C1>编辑</font>**>按钮，填入新的计费设置信息，点击<**<font color=#0071C1>修改</font>**>，可成功编辑计费设置。
 
 
 ![编辑计费设置](../_static/img/charging/user/editChargingSetting.png)
@@ -89,7 +89,7 @@
 
 ### 删除计费设置管理 ###
 
-* 系统管理员可在'计费设置'列表页面，点击需要删除的计费设置管理项中的[**<font color=blue>操作</font>**]列的<**<font color=blue>删除</font>**>按钮进行删除操作；也可以勾选需要删除的计费设置管理项，再点击<**<font color=blue>删除</font>**>按钮，进行批量删除的操作。
+* 系统管理员可在'计费设置'列表页面，点击需要删除的计费设置管理项中的[**<font color=#0071C1>操作</font>**]列的<**<font color=#0071C1>删除</font>**>按钮进行删除操作；也可以勾选需要删除的计费设置管理项，再点击<**<font color=#0071C1>删除</font>**>按钮，进行批量删除的操作。
 
 
 ![删除计费设置](../_static/img/charging/user/deleteChargingSetting.png)
@@ -101,7 +101,7 @@
 
 >**系统管理员可针对账户进行充值，如果需要扣费，可直接输入负数。**
 
-* 点击【**<font color=blue>计费</font>**】菜单，再次点击[**<font color=blue>账户管理</font>**]，进入'账户管理'列表页面，点击需要充值的账户管理项中的[**<font color=blue>操作</font>**]列的<**<font color=blue>充值</font>**>按钮，进入'资金管理'页面，点击<**<font color=blue>充值</font>**>按钮，填入充值信息，点击<**<font color=blue>保存</font>**>，可成功充值。
+* 点击【**<font color=#0071C1>计费</font>**】菜单，再次点击[**<font color=#0071C1>账户管理</font>**]，进入'账户管理'列表页面，点击需要充值的账户管理项中的[**<font color=#0071C1>操作</font>**]列的<**<font color=#0071C1>充值</font>**>按钮，进入'资金管理'页面，点击<**<font color=#0071C1>充值</font>**>按钮，填入充值信息，点击<**<font color=#0071C1>保存</font>**>，可成功充值。
 
 
 ![账户充值](../_static/img/charging/user/recharge.png)
@@ -115,7 +115,7 @@
 
 >**账户添加以后，可在账户下面添加相应用户。系统管理员可以新增团队管理员用户， 特殊情况下新增团队用户；团队管理员可以新增团队用户。**
 
-* 点击需要添加用户的账户左侧<font color=blue>></font> 按钮可查看该账户下的用户信息列表。
+* 点击需要添加用户的账户左侧<font color=#0071C1>></font> 按钮可查看该账户下的用户信息列表。
 
 ![用户信息管理](../_static/img/charging/user/userList.png)
 
@@ -125,7 +125,7 @@
 
 &emsp;
 ### 新增用户管理 ###
-* 在'用户管理'列表页面，点击<**<font color=blue>新增</font>**>按钮，填入用户管理信息，点击<**<font color=blue>保存</font>**>，可成功添加用户。
+* 在'用户管理'列表页面，点击<**<font color=#0071C1>新增</font>**>按钮，填入用户管理信息，点击<**<font color=#0071C1>保存</font>**>，可成功添加用户。
 
 
 ![新增用户](../_static/img/charging/user/addUser.png)
@@ -135,7 +135,7 @@
 
 ### 查看用户详情 ###
 
-* 在'用户管理'列表页面，点击需要查看的用户管理管理项中的[**<font color=blue>操作</font>**]列的<**<font color=blue>查看</font>**>按钮，可成功查看用户项详情信息。
+* 在'用户管理'列表页面，点击需要查看的用户管理管理项中的[**<font color=#0071C1>操作</font>**]列的<**<font color=#0071C1>查看</font>**>按钮，可成功查看用户项详情信息。
 
 ![查看用户详情](../_static/img/charging/user/userDetail.png)
 
@@ -146,7 +146,7 @@
 
 ### 编辑用户 ###
 
-* 在'用户管理'列表页面，点击需要编辑的用户管理管理项中的[**<font color=blue>操作</font>**]列的<**<font color=blue>编辑</font>**>按钮，填入新的用户信息，点击<**<font color=blue>修改</font>**>，可成功编辑用理。
+* 在'用户管理'列表页面，点击需要编辑的用户管理管理项中的[**<font color=#0071C1>操作</font>**]列的<**<font color=#0071C1>编辑</font>**>按钮，填入新的用户信息，点击<**<font color=#0071C1>修改</font>**>，可成功编辑用理。
 
 
 ![编辑用户管理](../_static/img/charging/user/editUser.png)
@@ -160,7 +160,7 @@
 
 > **管理员和团队管理员可以重置用户的密码。**
 
-* 在'用户管理'列表页面，点击需要重置密码的用户项中的[**<font color=blue>操作</font>**]列的<**<font color=blue>重置密码</font>**>按钮进行用户密码重置的操作。
+* 在'用户管理'列表页面，点击需要重置密码的用户项中的[**<font color=#0071C1>操作</font>**]列的<**<font color=#0071C1>重置密码</font>**>按钮进行用户密码重置的操作。
 
 
 ![重置用户密码](../_static/img/charging/user/resetUserPassword.png)

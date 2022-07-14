@@ -25,7 +25,7 @@
 ======================
 &emsp;
 * **用户管理**&emsp;([点击快速访问'用户管理'模块](../userManagement/index.rst))
-    <!-- + *对<font color=blue>机构</font>、<font color=blue>角色</font>以及<font color=blue>管理员</font>的管理，同时可以设置不同用户角色的**菜单权限**和**数据权限***。 -->
+    <!-- + *对<font color=#0071C1>机构</font>、<font color=#0071C1>角色</font>以及<font color=#0071C1>管理员</font>的管理，同时可以设置不同用户角色的**菜单权限**和**数据权限***。 -->
     + [机构](../userManagement/org.md)、[角色](../userManagement/role.md)以及[管理员](../userManagement/administrator.md)的管理，同时可以设置不同用户角色的 **<font color=green>菜单权限</font>** 和 **<font color=green>数据权限</font>**。
 
 &emsp;

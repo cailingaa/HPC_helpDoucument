@@ -17,7 +17,7 @@
 ----------------------------------------------------------------------------------------------------------------------------------
 
 ## 新增菜单 ##
-* 点击【**<font color=blue>系统管理</font>**】菜单，再次点击[**<font color=blue>菜单管理</font>**]，进入'菜单'列表页面，点击<**<font color=blue>新增</font>**>按钮或者是点击操作中的<**<font color=blue>新增子项</font>**>按钮，填入菜单信息，点击<**<font color=blue>保存</font>**>，可成功添加菜单。
+* 点击【**<font color=#0071C1>系统管理</font>**】菜单，再次点击[**<font color=#0071C1>菜单管理</font>**]，进入'菜单'列表页面，点击<**<font color=#0071C1>新增</font>**>按钮或者是点击操作中的<**<font color=#0071C1>新增子项</font>**>按钮，填入菜单信息，点击<**<font color=#0071C1>保存</font>**>，可成功添加菜单。
 
 ![新增菜单项](../_static/img/system/addMenu.jpg)
 
@@ -28,7 +28,7 @@
 
 ## 查看菜单详情 ##
 
-* 点击【**<font color=blue>系统管理</font>**】菜单，再次点击[**<font color=blue>菜单管理</font>**]，进入'菜单管理'列表页面，点击需要查看的菜单项中的[**<font color=blue>操作</font>**]列的<**<font color=blue>查看</font>**>按钮，可成功查看菜单项详情信息。
+* 点击【**<font color=#0071C1>系统管理</font>**】菜单，再次点击[**<font color=#0071C1>菜单管理</font>**]，进入'菜单管理'列表页面，点击需要查看的菜单项中的[**<font color=#0071C1>操作</font>**]列的<**<font color=#0071C1>查看</font>**>按钮，可成功查看菜单项详情信息。
 
 ![查看菜单详情](../_static/img/system/menuDetail.png)
 
@@ -39,7 +39,7 @@
 
 ## 编辑菜单 ##
 
-* 点击【**<font color=blue>系统管理</font>**】菜单，再次点击[**<font color=blue>菜单管理</font>**]，进入'菜单管理'列表页面，点击需要编辑的菜单项中的[**<font color=blue>操作</font>**]列的<**<font color=blue>编辑</font>**>按钮，填入新的菜单信息，点击<**<font color=blue>修改</font>**>，可成功编辑菜单。
+* 点击【**<font color=#0071C1>系统管理</font>**】菜单，再次点击[**<font color=#0071C1>菜单管理</font>**]，进入'菜单管理'列表页面，点击需要编辑的菜单项中的[**<font color=#0071C1>操作</font>**]列的<**<font color=#0071C1>编辑</font>**>按钮，填入新的菜单信息，点击<**<font color=#0071C1>修改</font>**>，可成功编辑菜单。
 
 
 ![修改菜单](../_static/img/system/editMenu.png)
@@ -51,7 +51,7 @@
 
 ## 删除菜单 ##
 
-* 点击【**<font color=blue>系统管理</font>**】菜单，再次点击[**<font color=blue>菜单管理</font>**]，进入'菜单管理'列表页面，点击需要删除的菜单项中的[**<font color=blue>操作</font>**]列的<**<font color=blue>删除</font>**>按钮进行删除操作；也可以勾选需要删除的菜单项，再点击<**<font color=blue>删除</font>**>按钮，进行批量删除的操作。
+* 点击【**<font color=#0071C1>系统管理</font>**】菜单，再次点击[**<font color=#0071C1>菜单管理</font>**]，进入'菜单管理'列表页面，点击需要删除的菜单项中的[**<font color=#0071C1>操作</font>**]列的<**<font color=#0071C1>删除</font>**>按钮进行删除操作；也可以勾选需要删除的菜单项，再点击<**<font color=#0071C1>删除</font>**>按钮，进行批量删除的操作。
 
 
 ![删除菜单](../_static/img/system/deleteMenu.png)

@@ -18,7 +18,7 @@
 
 ## 新增容器 ##
 
-* 点击【**<font color=blue>作业</font>**】菜单，再次点击[**<font color=blue>容器管理</font>**]，进入'容器管理'列表页面，点击<**<font color=blue>新增</font>**>按钮填入容器信息，点击<**<font color=blue>保存</font>**>，可成功添加容器。
+* 点击【**<font color=#0071C1>作业</font>**】菜单，再次点击[**<font color=#0071C1>容器管理</font>**]，进入'容器管理'列表页面，点击<**<font color=#0071C1>新增</font>**>按钮填入容器信息，点击<**<font color=#0071C1>保存</font>**>，可成功添加容器。
 
 
 ![新增容器](../_static/img/task/container/addContainer.png)
@@ -30,7 +30,7 @@
 
 ## 查看容器详情 ##
 
-* 点击【**<font color=blue>作业</font>**】菜单，再次点击[**<font color=blue>容器管理</font>**]，进入'容器管理'列表页面，点击需要查看的容器管理项中的[**<font color=blue>操作</font>**]列的<**<font color=blue>查看</font>**>按钮，可成功查看容器项详情信息。
+* 点击【**<font color=#0071C1>作业</font>**】菜单，再次点击[**<font color=#0071C1>容器管理</font>**]，进入'容器管理'列表页面，点击需要查看的容器管理项中的[**<font color=#0071C1>操作</font>**]列的<**<font color=#0071C1>查看</font>**>按钮，可成功查看容器项详情信息。
 
 ![查看容器详情](../_static/img/task/container/containerDetail.png)
 
@@ -41,7 +41,7 @@
 
 ## 编辑容器 ##
 
-* 点击【**<font color=blue>作业</font>**】菜单，再次点击[**<font color=blue>容器管理</font>**]，进入'容器管理'列表页面，点击需要编辑的容器管理项中的[**<font color=blue>操作</font>**]列的<**<font color=blue>编辑</font>**>按钮，填入新的容器管理信息，点击<**<font color=blue>修改</font>**>，可成功编辑容器。
+* 点击【**<font color=#0071C1>作业</font>**】菜单，再次点击[**<font color=#0071C1>容器管理</font>**]，进入'容器管理'列表页面，点击需要编辑的容器管理项中的[**<font color=#0071C1>操作</font>**]列的<**<font color=#0071C1>编辑</font>**>按钮，填入新的容器管理信息，点击<**<font color=#0071C1>修改</font>**>，可成功编辑容器。
 
 
 ![修改容器](../_static/img/task/container/editContainer.png)
@@ -53,7 +53,7 @@
 
 ## 删除容器 ##
 
-* 点击【**<font color=blue>作业</font>**】菜单，再次点击[**<font color=blue>容器管理</font>**]，进入'容器管理'列表页面，点击需要删除的容器管理项中的[**<font color=blue>操作</font>**]列的<**<font color=blue>删除</font>**>按钮进行删除操作；也可以勾选需要删除的容器管理项，再点击<**<font color=blue>删除</font>**>按钮，进行批量删除的操作。
+* 点击【**<font color=#0071C1>作业</font>**】菜单，再次点击[**<font color=#0071C1>容器管理</font>**]，进入'容器管理'列表页面，点击需要删除的容器管理项中的[**<font color=#0071C1>操作</font>**]列的<**<font color=#0071C1>删除</font>**>按钮进行删除操作；也可以勾选需要删除的容器管理项，再点击<**<font color=#0071C1>删除</font>**>按钮，进行批量删除的操作。
 
 
 ![删除容器](../_static/img/task/container/deleteContainer.png)

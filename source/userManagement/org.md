@@ -9,7 +9,7 @@
 
 ## 新增机构 ##
 
-* 点击【**<font color=blue>用户</font>**】菜单，再次点击[**<font color=blue>机构管理</font>**]，进入'机构管理'列表页面，点击<**<font color=blue>新增</font>**>按钮或者点击某一机构项的操作列的<**<font color=blue>新增子项</font>**>，填入机构信息，点击<**<font color=blue>保存</font>**>，可成功添加机构或为特定机构添加子机构。
+* 点击【**<font color=#0071C1>用户</font>**】菜单，再次点击[**<font color=#0071C1>机构管理</font>**]，进入'机构管理'列表页面，点击<**<font color=#0071C1>新增</font>**>按钮或者点击某一机构项的操作列的<**<font color=#0071C1>新增子项</font>**>，填入机构信息，点击<**<font color=#0071C1>保存</font>**>，可成功添加机构或为特定机构添加子机构。
 
 
 ![新增机构](../_static/img/usermanagement/addorg.png)
@@ -21,7 +21,7 @@
 
 ## 查看机构管理详情 ##
 
-* 点击【**<font color=blue>用户</font>**】菜单，再次点击[**<font color=blue>机构管理</font>**]，进入'机构管理'列表页面，点击需要查看的机构管理项中的[**<font color=blue>操作</font>**]列的<**<font color=blue>查看</font>**>按钮，可成功查看机构项详情信息。
+* 点击【**<font color=#0071C1>用户</font>**】菜单，再次点击[**<font color=#0071C1>机构管理</font>**]，进入'机构管理'列表页面，点击需要查看的机构管理项中的[**<font color=#0071C1>操作</font>**]列的<**<font color=#0071C1>查看</font>**>按钮，可成功查看机构项详情信息。
 
 ![查看机构详情](../_static/img/usermanagement/orgDetail.png)
 
@@ -32,7 +32,7 @@
 
 ## 编辑机构管理 ##
 
-* 点击【**<font color=blue>用户</font>**】菜单，再次点击[**<font color=blue>机构管理</font>**]，进入'机构管理'列表页面，点击需要编辑的机构管理项中的[**<font color=blue>操作</font>**]列的<**<font color=blue>编辑</font>**>按钮，填入新的机构管理信息，点击<**<font color=blue>修改</font>**>，可成功编辑机构。
+* 点击【**<font color=#0071C1>用户</font>**】菜单，再次点击[**<font color=#0071C1>机构管理</font>**]，进入'机构管理'列表页面，点击需要编辑的机构管理项中的[**<font color=#0071C1>操作</font>**]列的<**<font color=#0071C1>编辑</font>**>按钮，填入新的机构管理信息，点击<**<font color=#0071C1>修改</font>**>，可成功编辑机构。
 
 
 ![修改机构](../_static/img/usermanagement/editOrg.png)
@@ -44,7 +44,7 @@
 
 ## 删除机构管理 ##
 
-* 点击【**<font color=blue>用户</font>**】菜单，再次点击[**<font color=blue>机构管理</font>**]，进入'机构管理'列表页面，点击需要删除的机构管理项中的[**<font color=blue>操作</font>**]列的<**<font color=blue>删除</font>**>按钮进行删除操作；也可以勾选需要删除的机构管理项，再点击<**<font color=blue>删除</font>**>按钮，进行批量删除的操作。
+* 点击【**<font color=#0071C1>用户</font>**】菜单，再次点击[**<font color=#0071C1>机构管理</font>**]，进入'机构管理'列表页面，点击需要删除的机构管理项中的[**<font color=#0071C1>操作</font>**]列的<**<font color=#0071C1>删除</font>**>按钮进行删除操作；也可以勾选需要删除的机构管理项，再点击<**<font color=#0071C1>删除</font>**>按钮，进行批量删除的操作。
 
 
 ![删除机构](../_static/img/usermanagement/deleteOrg.png)
