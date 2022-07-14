@@ -1,11 +1,16 @@
-平台体系结构
+平台实施架构
 ======================
 &emsp;
+> **实施架构如下图所示：**
 
-**HPC管理平台总体系统架构设计如下图所示：**
+![平台实施架构](../_static/img/paltform/architecture.png)
 
-![平台架构体系](../_static/img/paltform/paltformStructure.png)
+>
 
+   +  **<font color=#0071C1>基础设施层</font>** 主要是提供服务器、胖节点服务器、GPU服务器以及存储等硬件资源，硬件资源利用业主方已有资源。
+   +  **<font color=#0071C1>平台层</font>** 主要针对硬件资源进行池化，一期进行高性能计算平台的建设，利用高性能计算和容器技术，实现高性能计算资源的调度；二期可进行虚拟化平台的建设，支持对云计算资源池进行虚拟化，为特定用户提供Windows桌面应用环境，开展相关高性能计算任务。
+   +  **<font color=#0071C1>安全防护层</font>** 主要为平台提供相关的安全防护能力，包括网络安全、系统安全安全及数据安全等层面的安全防护，可基于业主方现有安全防护体系。本项目中将搭建单独的反向代理系统，为平台提供反向代理、负载均衡以及SSL证书卸载等能力。
+   +  **<font color=#0071C1>平台将为用户提供统一入口</font>** 基于浏览器进行访问的HPC管理平台，实现用户管理、计费管理、高性能计算任务管理、运维管理等功能。
 
 
 &emsp;
@@ -19,15 +24,16 @@
 平台功能模块
 ======================
 &emsp;
-* **用户管理**
-    + *对<font color=blue>机构</font>、<font color=blue>角色</font>以及<font color=blue>管理员</font>的管理，同时可以设置不同用户角色的**菜单权限**和**数据权限***。
+* **用户管理**&emsp;([点击快速访问'用户管理'模块](../userManagement/index.rst))
+    <!-- + *对<font color=blue>机构</font>、<font color=blue>角色</font>以及<font color=blue>管理员</font>的管理，同时可以设置不同用户角色的**菜单权限**和**数据权限***。 -->
+    + [机构](../userManagement/org.md)、[角色](../userManagement/role.md)以及[管理员](../userManagement/administrator.md)的管理，同时可以设置不同用户角色的 **<font color=green>菜单权限</font>** 和 **<font color=green>数据权限</font>**。
 
 &emsp;
-* **计费管理**
-    + *统对用户实现**配额控制**和**计费功能**，HPC平台按照用户使用<font color=blue>CPU</font>、<font color=blue>GPU</font>、<font color=blue>内存</font>的具体数量进行计费，提供对用户使用时资源进行计费*。
+* **计费管理**&emsp;([点击快速访问'计费管理'模块](../charging/index.rst))
+    + *统对用户实现 **<font color=orange>配额控制</font>** 和 **<font color=orange>计费功能</font>** ，HPC平台按照用户使用 **<font color=green>CPU</font>**、**<font color=green>GPU</font>**、 **<font color=green>内存</font>** 的具体数量进行计费，提供对用户使用时资源进行计费*。
 
 &emsp;
-* **作业管理**
+* **作业管理**&emsp;([点击快速访问'作业管理'模块](../task/index.rst))
     + *主要对作业信息以及存储使用信息进行管理*。
 
 &emsp;
@@ -40,7 +46,7 @@ HPC可视化平台
 ======================
 &emsp;
 
-主要实现对 HPC 平台的可视化使用，集成<font color=blue> Web Shell</font>、<font color=blue> 文件管理</font>、<font color=blue> 作业提交</font>、<font color=blue> 可视化应用</font>等一站式服务，可以**在线提交与管理作业任务、在线通过命令行访问服务器等**。
+主要实现对 HPC 平台的可视化使用，集成 **<font color=orange> Web Shell</font>**、**<font color=orange>文件管理</font>**、**<font color=orange> 作业提交</font>**、**<font color=orange> 可视化应用</font>** 等一站式服务，可以 **<font color=green>在线提交与管理作业任务、在线通过命令行访问服务器</font>** 等。&emsp;([点击快速访问'可视化平台'模块](../visualization/index.rst))
 
 &emsp;
 
@@ -52,6 +58,6 @@ HPC可视化平台
 
 | 序号  | 用途      | 地址                  | 管理账号                             |备注                      |
 |:-----:| :-------- | ---------------------:| :-----------------------------------:|:------------------------:|
-|   1   |Web管理平台|http://10.11.16.5:8080/| 默认管理员账号：admin，默认密码：admin|团队管理员：datafj/666666|
-|   2   |可视化平台 |http://10.9.0.1/       | 跟团队管理与和 团队用户用户名 密码一致|                         |
+|   1   |Web管理平台|<http://10.11.16.5:8080/>| 默认管理员账号：admin，默认密码：admin|团队管理员：datafj/666666|
+|   2   |可视化平台 |<http://10.9.0.1/>       | 跟团队管理与和 团队用户用户名 密码一致|                         |
 
